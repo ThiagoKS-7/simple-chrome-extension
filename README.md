@@ -1,1 +1,1 @@
-# simple-extension
+# simple-chrome-extension
